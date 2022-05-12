@@ -4,4 +4,10 @@
   </a>
 </p>
 
+## Required
+
 `sudo apt update; sudo apt install -y lolcat figlet whois ripgrep`
+
+## Use
+
+`./domainavil.sh.x listofdomains.txt`
